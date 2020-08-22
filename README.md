@@ -1,6 +1,6 @@
-# Windows 10 OS vs. Mac iOS Security Features
+ Windows 10 OS vs. Mac iOS Security Features
 
-__*Look at ITR Expo*__
+__*Look at IT Expo*__
 
 *18 Security Features Compared
 
