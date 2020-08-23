@@ -44,7 +44,7 @@ Jonathan Knudsen, a senior security strategist at Synopsys, uses the analogy of 
 
 I will leave the last, self-admittedly obtuse, word to Chris Clements, vice-president of solutions architecture at Cerberus Security. "You and a friend are walking down the street with different colored shirts on," Clements says. One hundred feet ahead, two attackers step out and aim a gun at each of you. The attacker targeting you (macOS) is using a revolver, the attacker targeting your friend (Windows) has a fully automatic M16. "Just because you are less likely to get shot doesn’t make you any less dead if you are..."
 
-## macOS vs. Windows: Which OS Really Is the Best?
+### macOS vs. Windows: Which OS Really Is the Best?
 
 
 
