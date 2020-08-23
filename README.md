@@ -46,6 +46,8 @@ I will leave the last, self-admittedly obtuse, word to Chris Clements, vice-pres
 
 ### macOS vs. Windows: Which OS Really Is the Best?
 
+https://au.pcmag.com/operating-systems-1/59632/macos-vs-windows-which-os-really-is-the-best
+
 I dread the disgruntled comments, emails, and tweets headed my way because of this comparison, but hear me out. People on both sides of the OS war probably just aren’t aware of what the other side has to offer, and some of them may be curious about it.
 
 In the spirit of full disclosure, like more than 80 percent of the desktop and laptop world, I am primarily a Windows user. I am, however, an iPhone devotee, and as a software reviewer, I have lots of experience on Macs. I’m not a Mac or Apple hater by a long shot.
