@@ -1,5 +1,7 @@
 # Windows 10 OS vs. Mac iOS Security Features
 
+Use APA refencing on the last slide
+
 ### Apple Security Shock As Mac Threats Outpace Microsoft Windows By 2 To 1
 
 https://www.forbes.com/sites/daveywinder/2020/02/11/platform-wars-2020-apple-security-threats-outpace-microsoft-windows-for-first-time/#11f63c517c5a
